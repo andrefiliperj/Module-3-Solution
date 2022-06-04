@@ -1,0 +1,25 @@
+* {
+    font-family: 'Koulen', cursive;
+}
+
+.navbar {
+    background-color: rgb(153, 153, 153);
+    color: black;
+}
+
+.items {
+    border: 2px solid black;
+    margin-top: 16px;
+    background-color: rgb(153, 153, 153);
+    border-radius: 12px;
+}
+
+.text {
+    margin-top: 10px;
+    padding: 3px 12px;
+    font-weight: 700;
+}
+
+.item-name {
+    font-weight: bold;
+}
